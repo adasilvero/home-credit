@@ -1,1 +1,3 @@
 hola este es mi primer commit
+
+se agrega funcion
